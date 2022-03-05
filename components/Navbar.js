@@ -6,7 +6,7 @@ export default function Navbar() {
     <div className="container">
       <nav>
         <Image src="/rupee.png" width={50} height={48} />
-        <h1>Gaming Vibes</h1>
+        <h1>Next.js Authentication</h1>
         <ul>
           <li><Link href="/"><a>Home</a></Link></li>
           <li><Link href="/guides"><a>Guides</a></Link></li>
